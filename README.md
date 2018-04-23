@@ -2,6 +2,9 @@
 
 Repository for keeping overview information and reporting issues regarding services hosted by [pharmb.io](https://pharmb.io)
 
+## Issues
+Please report all issues regarding the services via our [Issue Tracker](https://github.com/pharmbio/services/issues).
+
 ## List of hosted services
 
 ### cpLogD
